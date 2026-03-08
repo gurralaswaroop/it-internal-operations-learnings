@@ -618,10 +618,11 @@ Access-Control-Allow-Headers: Content-Type
 
 ## Key Takeaways
 
-✅ HTTP is stateless - each request is independent  
-✅ HTTPS encrypts traffic - always use it in production  
-✅ Status codes tell you what happened (2xx=success, 4xx=client error, 5xx=server error)  
-✅ REST APIs use HTTP methods semantically  
-✅ Headers carry metadata about requests/responses  
-✅ Understanding HTTP is crucial for debugging API issues  
-✅ Use curl for testing and debugging HTTP endpoints
+1. HTTP is stateless - each request is independent
+2. HTTPS encrypts traffic - always use it in production
+3. Status codes tell you what happened (2xx=success, 4xx=client error, 5xx=server error)
+4. REST APIs use HTTP methods semantically
+5. Headers carry metadata about requests/responses
+6. Understanding HTTP is crucial for debugging API issues
+7. Use curl for testing and debugging HTTP endpoints
+
