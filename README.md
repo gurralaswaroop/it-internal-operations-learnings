@@ -16,7 +16,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 9. [disk-management](linux/09-disk-management)
 10. [package-management](linux/10-package-management)
 11. [systemd-services](linux/11-systemd-services)
-12. log-analysis
+12. [log-analysis](linux/12-log-analysis)
 13. ssh
 14. cron-job
 15. stroubleshooting
