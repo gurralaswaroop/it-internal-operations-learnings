@@ -906,10 +906,11 @@ curl http://backend-server:8080/health
 
 ## Key Takeaways
 
-✅ Load balancers distribute traffic across servers  
-✅ Round-robin is simple, least-connections adapts to load  
-✅ Layer 4 is fast, Layer 7 offers more features  
-✅ Health checks ensure traffic only goes to healthy servers  
-✅ Session persistence can cause uneven distribution  
-✅ Auto-scaling works hand-in-hand with load balancing  
-✅ Always have multiple backend servers for high availability
+1. Load balancers distribute traffic across servers
+2. Round-robin is simple, least-connections adapts to load
+3. Layer 4 is fast, Layer 7 offers more features
+4. Health checks ensure traffic only goes to healthy servers
+5. Session persistence can cause uneven distribution
+6. Auto-scaling works hand-in-hand with load balancing
+7. Always have multiple backend servers for high availability
+
