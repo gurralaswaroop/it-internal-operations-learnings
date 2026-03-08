@@ -403,10 +403,11 @@ ipconfig /flushdns
 
 ## Key Takeaways
 
-✅ DNS translates domain names to IP addresses  
-✅ A records point to IPv4, AAAA to IPv6  
-✅ CNAME creates aliases  
-✅ TTL controls caching duration  
-✅ DNS is critical for service discovery in microservices  
-✅ Always test DNS changes before going live  
-✅ Use `dig` or `nslookup` for troubleshooting
+1. DNS translates domain names to IP addresses
+2. A records point to IPv4, AAAA to IPv6
+3. CNAME creates aliases
+4. TTL controls caching duration
+5. DNS is critical for service discovery in microservices
+6. Always test DNS changes before going live
+7. Use `dig` or `nslookup` for troubleshooting
+
