@@ -14,6 +14,12 @@ This repository contains structured learning notes related to IT Infrastructure,
 7. [monitoring](linux/07-monitoring)
 8. [networking](linux/08-networking)
 9. [disk-management](linux/09-disk-management)
+10. package-management
+11. systemd-services
+12. log-analysis
+13. ssh
+14. cron-job
+15. stroubleshooting
 ### Networking
 1. [IP Addressing](networking/01-ip-addressing)
 3. [TCP/IP](networking/02-tcp-ip)
