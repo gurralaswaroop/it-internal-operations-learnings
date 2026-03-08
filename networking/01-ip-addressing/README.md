@@ -214,9 +214,10 @@ ping 8.8.8.8
 
 ## Key Takeaways
 
-✅ IP addresses identify devices on a network  
-✅ Private IPs are for internal networks  
-✅ Public IPs are for internet communication  
-✅ Subnetting helps organize and secure networks  
-✅ CIDR notation is used everywhere in cloud/DevOps
+1. IP addresses identify devices on a network
+2. Private IPs are for internal networks
+3. Public IPs are for internet communication
+4. Subnetting helps organize and secure networks
+5. CIDR notation is used everywhere in cloud/DevOps
+
 
