@@ -989,11 +989,12 @@ sudo sysctl -w net.ipv4.ip_forward=1
 
 ## Key Takeaways
 
-✅ VPNs create encrypted tunnels over public networks  
-✅ Remote access VPN for individuals, site-to-site for networks  
-✅ WireGuard is modern and fast, OpenVPN is mature and flexible  
-✅ SSH tunneling is simple for quick port forwarding  
-✅ Cloud VPNs connect on-premise to cloud (hybrid cloud)  
-✅ Split tunneling sends only some traffic through VPN  
-✅ Always use VPN on public WiFi for security  
-✅ Check firewall and routing when troubleshooting VPN issues
+1. VPNs create encrypted tunnels over public networks
+2. Remote access VPN for individuals, site-to-site for networks
+3. WireGuard is modern and fast, OpenVPN is mature and flexible
+4. SSH tunneling is simple for quick port forwarding
+5. Cloud VPNs connect on-premise to cloud (hybrid cloud)
+6. Split tunneling sends only some traffic through VPN
+7. Always use VPN on public WiFi for security
+8. Check firewall and routing when troubleshooting VPN issues
+
