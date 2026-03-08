@@ -21,7 +21,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 6. [HTTP & HTTPS](networking/04-http-https)
 7. [Load Balancing](networking/05-load-balancing)
 9. [Firewalls](networking/06-firewalls)
-10. VPN Tunneling
+10. [VPN Tunneling](networking/07-vpn-tunneling)
 11. Proxies
 12. Docker Networking
 
