@@ -18,7 +18,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 11. [systemd-services](linux/11-systemd-services)
 12. [log-analysis](linux/12-log-analysis)
 13. [ssh](linux/13-ssh)
-14. cron-job
+14. [cron-job](linux/14-cron-jobs)
 15. stroubleshooting
 ### Networking
 1. [IP Addressing](networking/01-ip-addressing)
