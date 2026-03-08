@@ -8,7 +8,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 1. [folder-structure](linux/01-folder-structure)
 2. [user-management](linux/02-user-management)
 3. [file-management](linux/03-file-management)
-4. vi-shortcuts
+4. [vi-shortcuts](linux/04-vi-shortcuts)
 5. file-permissions
 6. process-management
 7. monitoring
