@@ -23,6 +23,6 @@ This repository contains structured learning notes related to IT Infrastructure,
 9. [Firewalls](networking/06-firewalls)
 10. [VPN Tunneling](networking/07-vpn-tunneling)
 11. [Proxies](networking/08-proxies)
-12. Docker Networking
+12. [Docker Networking](networking/10-docker-networking)
 
 
