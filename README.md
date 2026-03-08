@@ -5,17 +5,15 @@ This repository contains structured learning notes related to IT Infrastructure,
 ## Topics Covered
 
 ### Linux
-1. Basic Commands
-2. Filesystem
-3. User Management
-4. File Permissions
-5. Process Management
-6. Package Management
-7. Systemd Services
-8. Disk Management
-9. Linux Networking
-10. Monitoring
-
+1-folder-structure
+2-user-management
+3-file-management
+4-vi-shortcuts
+5-file-permissions
+6-process-management
+7-monitoring
+8-networking
+9-disk-management
 ### Networking
 1. IP Addressing
 2. TCP/IP
