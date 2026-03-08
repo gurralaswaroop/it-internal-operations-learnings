@@ -374,9 +374,10 @@ Backend → SYN-ACK (healthy) or timeout (unhealthy)
 
 ## Key Takeaways
 
-✅ TCP is reliable but slower (HTTP, SSH)  
-✅ UDP is fast but unreliable (streaming, DNS)  
-✅ Ports identify specific services on a host  
-✅ TCP handshake establishes connections  
-✅ Understanding layers helps debug network issues  
-✅ Most DevOps work happens at Layer 4 (Transport) and Layer 7 (Application)
+1. TCP is reliable but slower (HTTP, SSH)
+2. UDP is fast but unreliable (streaming, DNS)
+3. Ports identify specific services on a host
+4. TCP handshake establishes connections
+5. Understanding layers helps debug network issues
+
+
