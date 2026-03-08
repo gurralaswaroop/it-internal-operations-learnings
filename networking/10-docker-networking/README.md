@@ -835,13 +835,14 @@ Explicit connections only when needed
 
 ## Key Takeaways
 
-✅ Docker creates isolated networks for containers  
-✅ Bridge is the default network driver  
-✅ Containers on same network can communicate by name  
-✅ Use custom networks instead of default bridge  
-✅ Port mapping: `-p host:container`  
-✅ Docker Compose automatically creates networks  
-✅ DNS resolution works for container names  
-✅ Network isolation improves security  
-✅ Use `docker network` commands to manage networks  
-✅ Always use user-defined networks for production
+1. Docker creates isolated networks for containers
+2. Bridge is the default network driver
+3. Containers on same network can communicate by name
+4. Use custom networks instead of default bridge
+5. Port mapping: `-p host:container`
+6. Docker Compose automatically creates networks
+7. DNS resolution works for container names
+8. Network isolation improves security
+9. Use `docker network` commands to manage networks
+10. Always use user-defined networks for production
+
