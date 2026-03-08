@@ -541,11 +541,12 @@ sudo ufw allow from 0.0.0.0/0 to any
 ```
 ## Key Takeaways
 
-✅ Firewalls control inbound and outbound traffic  
-✅ Default deny, explicitly allow what's needed  
-✅ Use security groups to reference other groups (cloud)  
-✅ Separate security groups by role/tier  
-✅ Always allow SSH before enabling firewall (to avoid lockout)  
-✅ Regular audits to remove unnecessary rules  
-✅ Test connectivity after making changes  
-✅ Document why each rule exists
+1. Firewalls control inbound and outbound traffic
+2. Default deny, explicitly allow what's needed
+3. Use security groups to reference other groups (cloud)
+4. Separate security groups by role/tier
+5. Always allow SSH before enabling firewall (to avoid lockout)
+6. Regular audits to remove unnecessary rules
+7. Test connectivity after making changes
+8. Document why each rule exists
+
