@@ -621,11 +621,12 @@ add_header X-XSS-Protection "1; mode=block";
 
 ## Key Takeaways
 
-✅ Forward proxy sits in front of clients (client-side)  
-✅ Reverse proxy sits in front of servers (server-side)  
-✅ Reverse proxies handle: load balancing, SSL termination, caching  
-✅ Nginx is the most popular reverse proxy  
-✅ Always forward X-Real-IP and X-Forwarded-For headers  
-✅ Caching at proxy level reduces backend load  
-✅ Proxies provide single entry point for multiple services  
-✅ Use reverse proxies for security and traffic management
+1. Forward proxy sits in front of clients (client-side)
+2. Reverse proxy sits in front of servers (server-side)
+3. Reverse proxies handle: load balancing, SSL termination, caching
+4. Nginx is the most popular reverse proxy
+5. Always forward X-Real-IP and X-Forwarded-For headers
+6. Caching at proxy level reduces backend load
+7. Proxies provide single entry point for multiple services
+8. Use reverse proxies for security and traffic management
+
