@@ -15,7 +15,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 8. networking
 9. disk-management
 ### Networking
-1. IP Addressing
+1. [IP Addressing](linux/01-folder-structure)
 2. TCP/IP
 3. DNS
 4. HTTP & HTTPS
