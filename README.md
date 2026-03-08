@@ -11,7 +11,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 4. [vi-shortcuts](linux/04-vi-shortcuts)
 5. [file-permissions](linux/05-file-permissions)
 6. [process-management](linux/06-process-management)
-7. monitoring
+7. [monitoring](linux/07-monitoring)
 8. networking
 9. disk-management
 ### Networking
