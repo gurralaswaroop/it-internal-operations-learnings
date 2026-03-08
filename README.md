@@ -16,13 +16,13 @@ This repository contains structured learning notes related to IT Infrastructure,
 9. disk-management
 ### Networking
 1. [IP Addressing](networking/01-ip-addressing)
-3. TCP/IP
-4. DNS
-5. HTTP & HTTPS
-6. Load Balancing
-7. Firewalls
-8. VPN Tunneling
-9. Proxies
-10. Docker Networking
+3. [TCP/IP](networking/02-tcp-ip)
+5. DNS
+6. HTTP & HTTPS
+7. Load Balancing
+8. Firewalls
+9. VPN Tunneling
+10. Proxies
+11. Docker Networking
 
 
