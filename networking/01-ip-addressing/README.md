@@ -212,13 +212,6 @@ ipconfig
 ping 8.8.8.8
 ```
 
-## DevOps Real-World Use Cases
-
-1. **Cloud VPC Design**: Creating subnets for different tiers (web, app, database)
-2. **Container Networks**: Docker assigns IP addresses from a subnet (usually `172.17.0.0/16`)
-3. **Kubernetes Pods**: Each pod gets its own IP address
-4. **Security Groups**: Allow traffic from specific IP ranges (e.g., `10.0.1.0/24`)
-
 ## Key Takeaways
 
 ✅ IP addresses identify devices on a network  
@@ -226,3 +219,4 @@ ping 8.8.8.8
 ✅ Public IPs are for internet communication  
 ✅ Subnetting helps organize and secure networks  
 ✅ CIDR notation is used everywhere in cloud/DevOps
+
