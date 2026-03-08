@@ -12,7 +12,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 5. [file-permissions](linux/05-file-permissions)
 6. [process-management](linux/06-process-management)
 7. [monitoring](linux/07-monitoring)
-8. networking
+8. [networking](linux/08-networking)
 9. disk-management
 ### Networking
 1. [IP Addressing](networking/01-ip-addressing)
