@@ -17,7 +17,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 ### Networking
 1. [IP Addressing](networking/01-ip-addressing)
 3. [TCP/IP](networking/02-tcp-ip)
-5. DNS
+5. [DNS](networking/03-dns)
 6. HTTP & HTTPS
 7. Load Balancing
 8. Firewalls
