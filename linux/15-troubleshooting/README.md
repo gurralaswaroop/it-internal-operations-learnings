@@ -16,7 +16,7 @@ Check network connectivity
 Verify disk and memory usage
 
 ## Useful Diagnostic Commands
-
+```bash
 top – Monitor running processes
 
 free -m – Check memory usage
@@ -28,9 +28,9 @@ ps aux – View running processes
 journalctl -xe – View system logs
 
 ping google.com – Test internet connectivity
-
+```
 ## Service Troubleshooting
-
+```bash
 Check service status
 
 systemctl status service-name
@@ -38,6 +38,7 @@ systemctl status service-name
 Restart service
 
 systemctl restart service-name
-
+```
 ## Conclusion
 Effective troubleshooting requires understanding logs, system resources, and service behavior.
+
