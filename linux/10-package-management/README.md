@@ -51,6 +51,8 @@ Shows package versions, dependencies, and available updates.
 
 A package manager interacts with several components to manage software packages.
 
+<img width="804" height="397" alt="image" src="https://github.com/user-attachments/assets/000f722d-86dd-4f3a-b094-fb68de278c65" />
+
 ## User System
 
 The system where users execute commands such as:
@@ -314,6 +316,7 @@ apt output may change and is not recommended for automation.
 # Conclusion
 
 Package managers simplify software management by handling installation, updates, dependency resolution, and removal. They are essential tools for Linux system administrators and IT operations engineers.
+
 
 
 
