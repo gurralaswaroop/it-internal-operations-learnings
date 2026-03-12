@@ -106,11 +106,6 @@ On Debian-based systems:
 ```bash
 usermod -aG sudo username
 ```
-On RHEL-based systems:
-```bash
-usermod -aG wheel username
-```
-
 ### Granting Specific Commands with Sudo
 Edit the sudoers file:
 ```bash
@@ -120,3 +115,4 @@ Then add:
 ```bash
 username ALL=(ALL) NOPASSWD: /path/to/command
 ```
+
