@@ -1,4 +1,4 @@
-# Laptop Hardware Components Explained
+# Laptop Hardware Components 
 
 This section explains the major hardware components found inside a laptop and their functions.
 
@@ -6,7 +6,7 @@ This section explains the major hardware components found inside a laptop and th
 
 ## 1. Motherboard / Mainboard
 
-
+[Motherboard]([url](https://www.computerhope.com/cdn/motherboard.jpg))
 The motherboard is the main circuit board of the laptop where all hardware components connect.
 
 - Provides communication pathways (buses) between CPU, RAM, storage, and peripherals.
@@ -248,3 +248,4 @@ Internal speakers provide audio output.
 # Conclusion
 
 Laptop hardware components work together to deliver computing functionality. Understanding these components helps in troubleshooting hardware failures, upgrading systems, and maintaining laptop performance.
+
