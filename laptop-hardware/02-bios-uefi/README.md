@@ -37,7 +37,8 @@ If a failure occurs, the system may produce **beep codes or LED indicators**.
 ## Accessing BIOS / UEFI
 
 Common keys used during boot:
-<imgae https://i.dell.com/sites/csimages/App-Merchandizing_esupport_flatcontent_Images/all/bios-system-information-optiplex-7050.png" />
+
+<img width="804" height="397" alt="image" src="https://i.dell.com/sites/csimages/App-Merchandizing_esupport_flatcontent_Images/all/bios-system-information-optiplex-7050.png" />
 
 | Manufacturer | Key |
 |---------------|------|
