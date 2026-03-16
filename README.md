@@ -32,7 +32,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 12. [Docker Networking](networking/10-docker-networking)
 ### Laptop Hardware 
 13. [hardware-components](laptop-hardware/01-hardware-components)
-14. [bios-uefi]()
+14. [bios-uefi](laptop-hardware/02-bios-uefi)
 15. [disk-replacement]()
 16. [ram-upgrade]()
 17. [battery-health]()
