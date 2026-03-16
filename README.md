@@ -35,7 +35,7 @@ This repository contains structured learning notes related to IT Infrastructure,
 14. [bios-uefi](laptop-hardware/02-bios-uefi)
 15. [disk-replacement](laptop-hardware/03-disk-replacement)
 16. [ram-upgrade](laptop-hardware/04-ram-upgrade)
-17. [battery-health]()
+17. [battery-health](laptop-hardware/05-battery-health)
 18. [overheating-issues]()
 19. [network-adapter]()
 
