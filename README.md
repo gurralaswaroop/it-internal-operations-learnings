@@ -30,5 +30,13 @@ This repository contains structured learning notes related to IT Infrastructure,
 10. [VPN Tunneling](networking/07-vpn-tunneling)
 11. [Proxies](networking/08-proxies)
 12. [Docker Networking](networking/10-docker-networking)
+### Laptop Hardware 
+13. hardware-components
+14. bios-uefi
+15. disk-replacement
+16. ram-upgrade
+17. battery-health
+18. overheating-issues
+19. network-adapter
 
 
